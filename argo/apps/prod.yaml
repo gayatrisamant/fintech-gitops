@@ -9,7 +9,7 @@ spec:
     namespace: prod
     server: https://kubernetes.default.svc
   source:
-    repoURL: https://github.com/YOUR_USERNAME/fintech-gitops.git
+    repoURL: https://github.com/gayatrisamant/fintech-gitops.git
     targetRevision: HEAD
     path: payment-gateway
     helm:
